@@ -29,9 +29,13 @@ This app allows you to add a new offer which parameters was written in solidity 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/6a197d0f-9da7-4f60-8b1b-30b1be46e0ec">
 * As you registered you can reach a profile page where you can see consumed energy and buy some if you are consumer or list some if you are supplier.
 <img width="1407" alt="image" src="https://github.com/user-attachments/assets/4b841461-aef8-470f-a1e5-f5245dfaa2e7">
-![Uploading image.png…]()
 * Now there you can see the uniqe ID for youre model
+<img width="513" alt="image" src="https://github.com/user-attachments/assets/d92afd86-76bf-4010-9448-9e84b4f3e698">
+* You have acess to the purchase history that stores on the blockchain
+<img width="1434" alt="image" src="https://github.com/user-attachments/assets/135a3d33-2481-487e-a8ae-b970da9e08f1">
+* After buing a new energy three also pending energy system that also behave from smart contract
 
+  
 ### Authors
 
  Toleugazy Daulet 
